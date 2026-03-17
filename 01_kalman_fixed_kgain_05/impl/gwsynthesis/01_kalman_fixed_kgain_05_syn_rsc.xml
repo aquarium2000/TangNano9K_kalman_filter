@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" Register="257" Alu="145" Lut="214" T_Register="278(257)" T_Alu="145(145)" T_Lut="247(214)">
+ <SubModule name="u_core" Register="21" Lut="33" T_Register="21(21)" T_Lut="33(33)"/>
+</Module>
